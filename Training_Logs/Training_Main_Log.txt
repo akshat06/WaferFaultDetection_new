@@ -1,0 +1,28 @@
+2021-08-18/08:47:19		Start of Validation on files!!
+2021-08-18/08:47:25		Raw Data Validation Complete!!
+2021-08-18/08:47:25		Starting Data Transforamtion!!
+2021-08-18/08:47:31		DataTransformation Completed!!!
+2021-08-18/08:47:31		Creating Training_Database and tables on the basis of given schema!!!
+2021-08-18/08:47:37		Table creation Completed!!
+2021-08-18/08:47:37		Insertion of Data into Table started!!!!
+2021-08-18/08:47:46		Insertion in Table completed!!!
+2021-08-18/08:47:46		Deleting Good Data Folder!!!
+2021-08-18/08:47:46		Good_Data folder deleted!!!
+2021-08-18/08:47:46		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-08-18/08:47:46		Bad files moved to archive!! Bad folder Deleted!!
+2021-08-18/08:47:46		Validation Operation completed!!
+2021-08-18/08:47:46		Extracting csv file from table
+2021-08-18/17:06:49		Start of Validation on files!!
+2021-08-18/17:06:57		Raw Data Validation Complete!!
+2021-08-18/17:06:57		Starting Data Transforamtion!!
+2021-08-18/17:07:04		DataTransformation Completed!!!
+2021-08-18/17:07:04		Creating Training_Database and tables on the basis of given schema!!!
+2021-08-18/17:07:04		Table creation Completed!!
+2021-08-18/17:07:04		Insertion of Data into Table started!!!!
+2021-08-18/17:07:13		Insertion in Table completed!!!
+2021-08-18/17:07:13		Deleting Good Data Folder!!!
+2021-08-18/17:07:13		Good_Data folder deleted!!!
+2021-08-18/17:07:13		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-08-18/17:07:13		Bad files moved to archive!! Bad folder Deleted!!
+2021-08-18/17:07:13		Validation Operation completed!!
+2021-08-18/17:07:13		Extracting csv file from table

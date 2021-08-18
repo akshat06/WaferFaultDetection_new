@@ -1,0 +1,11 @@
+2021-08-18/08:25:47		BadRaw directory deleted before starting validation!!!
+2021-08-18/08:25:47		GoodRaw directory deleted successfully!!!
+2021-08-18/08:26:08		GoodRaw directory deleted successfully!!!
+2021-08-18/08:26:08		Bad files moved to archive
+2021-08-18/08:26:08		Bad Raw Data Folder Deleted successfully!!
+2021-08-18/08:44:41		GoodRaw directory deleted successfully!!!
+2021-08-18/08:44:41		Bad files moved to archive
+2021-08-18/08:44:41		Bad Raw Data Folder Deleted successfully!!
+2021-08-18/10:31:26		GoodRaw directory deleted successfully!!!
+2021-08-18/10:31:26		Bad files moved to archive
+2021-08-18/10:31:26		Bad Raw Data Folder Deleted successfully!!
